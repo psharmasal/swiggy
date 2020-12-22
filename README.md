@@ -23,4 +23,4 @@ Things you may want to cover:
 
 * ...
 
-Testing git pull request with Jira.
+Testing of git pull requests with Jira.
